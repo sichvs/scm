@@ -1,2 +1,2 @@
-chmod +x .bin/scm
-mv .bin/scm $PREFIX/bin
+chmod +x scm
+mv scm $PREFIX/bin
