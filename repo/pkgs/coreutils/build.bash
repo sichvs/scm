@@ -1,0 +1,1 @@
+pkg install coreutils -y

@@ -1,0 +1,1 @@
+pkg install vim -y

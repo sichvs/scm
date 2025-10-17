@@ -1,1 +1,0 @@
-cp tsu $PREFIX/bin

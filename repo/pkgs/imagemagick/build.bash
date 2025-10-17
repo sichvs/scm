@@ -1,0 +1,1 @@
+pkg install imagemagick -y
